@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zabou\\source\\repos\\Dibby.IdDict\\Balosar\\Balosar.Server\\Balosar.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zabou\\source\\repos\\Dibby.IdDict\\Balosar\\Balosar.Server\\Balosar.Server.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zabou\\source\\repos\\Dibby.IdDict\\Balosar\\Balosar.Server\\Balosar.Server.csproj",
+        "projectPath": "C:\\Users\\zabou\\source\\repos\\Dibby.IdDict\\Balosar\\Balosar.Server\\Balosar.Server.csproj",
+        "packagesPath": "C:\\Users\\zabou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zabou\\source\\repos\\Dibby.IdDict\\Balosar\\Balosar.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zabou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      }
+    }
+  }
+}
